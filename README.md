@@ -1,12 +1,22 @@
-# Net_Practice
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticem.png" alt="Net Practice Banner" />
+</div>
 
-> **42 Project #10** — Configuring small networks, making devices talk, applying TCP/IP concepts
+<div align="center">
 
-This repo is mainly about understanding how networks work through 10 practical exercises. Recent update focused on UI improvements, better documentation, and overall cleanup.
+# Netpractice
+
+**Configuring small networks, making devices talk, applying TCP/IP concepts.**
+
+<img alt="42 badge" src="https://img.shields.io/badge/42-Project-black?style=for-the-badge" />
+<img alt="Language Networking" src="https://img.shields.io/badge/Language-Networking-blue?style=for-the-badge" />
+<img alt="Score" src="https://img.shields.io/badge/Score-100-success?style=for-the-badge" />
+
+</div>
 
 ---
 
-## What's Inside
+## Table of contents
 
 - [Basics](#basics) — Networks, TCP/IP, addressing
 - [Subnetting](#subnetting) — IPv4, masks, CIDR notation
